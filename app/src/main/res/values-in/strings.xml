@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Film</string>
+    <string name="movie_description">Deskripsi Film</string>
+    <string name="title_movie">Judul Film</string>
+    <string name="language">Bahasa</string>
+    <string name="fav">Favorit</string>
+    <string name="Movies">Film</string>
+    <string name="movie_favorite">Film Favorite</string>
+    <string name="show_favorite">Seri Tv Favorite</string>
+    <string name="Tv_Show">Seri Tv</string>
+
+    <!--<string-array name="movie_description">
+        <item>Seasoned musician Jackson Maine discovers — and falls in love with — struggling artist Ally. She has just about given up on her dream to make it big as a singer — until Jack coaxes her into the spotlight. But even as Ally's career takes off, the personal side of their relationship is breaking down, as Jack fights an ongoing battle with his own internal demons"</item>
+        <item>In 2563, 300 years after Earth was devastated by a catastrophic war known as "The Fall,” scientist Dr. Dyson Ido discovers a disembodied female cyborg with an intact human brain while scavenging for parts in the massive scrapyard of Iron City. Ido attaches a new cyborg body to the brain and names her "Alita" after his deceased daughter</item>
+        <item>Once home to the most advanced civilization on Earth, Atlantis is now an underwater kingdom ruled by the power-hungry King Orm. With a vast army at his disposal, Orm plans to conquer the remaining oceanic people and then the surface world. Standing in his way is Arthur Curry, Orm's half-human, half-Atlantean brother and true heir to the throne.</item>
+        <item>Singer Freddie Mercury, guitarist Brian May, drummer Roger Taylor and bass guitarist John Deacon take the music world by storm when they form the rock 'n' roll band Queen in 1970. Hit songs become instant classics. When Mercury's increasingly wild lifestyle starts to spiral out of control, Queen soon faces its greatest challenge yet – finding a way to keep the band together amid the success and excess.</item>
+        <item>Miles returns to the station to search for the spider and discovers a particle accelerator called "The Super-Collider" built by Kingpin, who hopes to access parallel universes and reunite with his dead family. Spider-Man is fighting Kingpin's enforcers, Green Goblin and Prowler.</item>
+        <item>The former World Heavyweight Champion Rocky Balboa serves as a trainer and mentor to Adonis Johnson, the son of his late friend and former rival Apollo Creed.</item>
+        <item>David and Kevin are placed into separate rooms that contain unique security measures based on their specific weaknesses. Staple explains that she believes they suffer from delusions of grandeur and do not have superpowers. Elijah's mother Mrs. Price, Joseph Dunn and Casey Cooke, a victim who survived Kevin/the Horde's captivity</item>
+        <item>As the son of a Viking leader on the cusp of manhood, shy Hiccup Horrendous Haddock III faces a rite of passage: he must kill a dragon to prove his warrior mettle. But after downing a feared dragon, he realizes that he no longer wants to destroy it, and instead befriends the beast – which he names Toothless – much to the chagrin of his warrior father.</item>
+        <item>As the Avengers and their allies have continued to protect the world from threats too large for any one hero to handle, a new danger has emerged from the cosmic shadows: Thanos. A despot of intergalactic infamy, his goal is to collect all six Infinity Stones, artifacts of unimaginable power, and use them to inflict his twisted will on all of reality. Everything the Avengers have fought for has led up to this moment - the fate of Earth and existence itself has never been more uncertain.</item>
+        <item>The six years since the first film, Wreck-It Ralph and Vanellope Von Schweetz have stayed best friends, hanging out after work in Litwak's Arcade. One day, Vanellope expresses how bored she has become of Sugar Rush's tracks, so Ralph sneaks into the game and makes a new track for her</item>
+    </string-array>-->
+</resources>

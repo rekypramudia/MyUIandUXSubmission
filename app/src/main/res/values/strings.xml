@@ -1,0 +1,56 @@
+<resources>
+    <string name="app_name">Movie</string>
+    <string name="movie_description">Movie Description</string>
+    <string name="title_movie">Movie Title</string>
+    <string name="language">Languages</string>
+    <string name="Movies">Movies</string>
+    <string name="movie_favorite">Movie Favorite</string>
+    <string name="show_favorite">Tv Show Favorite</string>
+    <string name="fav">Favorite</string>
+    <string name="Tv_Show">Tv Show</string>
+    <string name="todo1" translatable="false">TODO1</string>
+    <string name="todo" translatable="false">TODO</string>
+    <string name="love" translatable="false">tambag</string>
+
+
+    <string-array name="movie_title">
+        <item>A Star is Born</item>
+        <item>Alita Battle Angel</item>
+        <item>Aquaman</item>
+        <item>Bohemian Rhapsody</item>
+        <item>Spiderman Into Spider-Verse</item>
+        <item>Creed</item>
+        <item>Glass</item>
+        <item>How to Train Your Dragon</item>
+        <item>Avenger Infinity War</item>
+        <item>Ralph Breaks the Internet</item>
+    </string-array>
+
+    <string-array name="movie_description">
+        <item>"Seasoned musician Jackson Maine discovers — and falls in love with — struggling artist Ally. She has just about given up on her dream to make it big as a singer — until Jack coaxes her into the spotlight. But even as Ally's career takes off, the personal side of their relationship is breaking down, as Jack fights an ongoing battle with his own internal demons"</item>
+        <item>In 2563, 300 years after Earth was devastated by a catastrophic war known as The Fall, scientist Dr. Dyson Ido discovers a disembodied female cyborg with an intact human brain while scavenging for parts in the massive scrapyard of Iron City. Ido attaches a new cyborg body to the brain and names her  after his deceased daughter</item>
+        <item>Once home to the most advanced civilization on Earth, Atlantis is now an underwater kingdom ruled by the power-hungry King Orm. With a vast army at his disposal, Orm plans to conquer the remaining oceanic people and then the surface world. Standing in his way is Arthur Curry, Orms half-human, half-Atlantean brother and true heir to the throne.</item>
+        <item>Singer Freddie Mercury, guitarist Brian May, drummer Roger Taylor and bass guitarist John Deacon take the music world by storm when they form the rock n roll band Queen in 1970. Hit songs become instant classics. When Mercurys increasingly wild lifestyle starts to spiral out of control, Queen soon faces its greatest challenge yet – finding a way to keep the band together amid the success and excess.</item>
+        <item>Miles returns to the station to search for the spider and discovers a particle accelerator called The Super-Collider built by Kingpin, who hopes to access parallel universes and reunite with his dead family. Spider-Man is fighting Kingpins enforcers, Green Goblin and Prowler.</item>
+        <item>The former World Heavyweight Champion Rocky Balboa serves as a trainer and mentor to Adonis Johnson, the son of his late friend and former rival Apollo Creed.</item>
+        <item>David and Kevin are placed into separate rooms that contain unique security measures based on their specific weaknesses. Staple explains that she believes they suffer from delusions of grandeur and do not have superpowers. Elijahs mother Mrs. Price, Joseph Dunn and Casey Cooke, a victim who survived Kevin/the Hordes captivity</item>
+        <item>As the son of a Viking leader on the cusp of manhood, shy Hiccup Horrendous Haddock III faces a rite of passage: he must kill a dragon to prove his warrior mettle. But after downing a feared dragon, he realizes that he no longer wants to destroy it, and instead befriends the beast – which he names Toothless – much to the chagrin of his warrior father.</item>
+        <item>As the Avengers and their allies have continued to protect the world from threats too large for any one hero to handle, a new danger has emerged from the cosmic shadows: Thanos. A despot of intergalactic infamy, his goal is to collect all six Infinity Stones, artifacts of unimaginable power, and use them to inflict his twisted will on all of reality. Everything the Avengers have fought for has led up to this moment - the fate of Earth and existence itself has never been more uncertain.</item>
+        <item>The six years since the first film, Wreck-It Ralph and Vanellope Von Schweetz have stayed best friends, hanging out after work in Litwaks Arcade. One day, Vanellope expresses how bored she has become of Sugar Rushs tracks, so Ralph sneaks into the game and makes a new track for her</item>
+    </string-array>
+
+    <string-array name="movie_image">
+        <item>https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6309/6309060_so.jpg</item>
+        <item>https://en.wikipedia.org/wiki/File:Battle_Angel_Alita_(issue_1_-_cover).jpgq</item>
+        <item>https://mcswebsites.blob.core.windows.net/1013/Event_6771/poster_medium/Aquaman_B1_Hero_EE_3d_preview.jpg</item>
+        <item>https://m.media-amazon.com/images/M/MV5BMTA2NDc3Njg5NDVeQTJeQWpwZ15BbWU4MDc1NDcxNTUz._V1_.jpg</item>
+        <item>https://en.wikipedia.org/wiki/File:Spider-Man_Into_the_Spider-Verse_(2018_poster).png</item>
+        <item>https://i2.wp.com/www.themovieguys.net/wp-content/uploads/2015/12/creed-movie-poster.jpg</item>
+        <item>https://en.wikipedia.org/wiki/File:Glass_(2019_poster).png</item>
+        <item>https://upload.wikimedia.org/wikipedia/en/9/99/How_to_Train_Your_Dragon_Poster.jpg</item>
+        <item>https://2.bp.blogspot.com/-L4Jb5s7ofBA/WtyazMCSL0I/AAAAAAAAE7A/Q9aa2quYhAAjMgNs21B71J2AyT87_5PogCLcBGAs/s1600/Avengers%2BInfinity%2Bwar%2BWallpaper%2BEngine.jpg</item>
+        <item>https://www.google.com/url?sa=i&amp;url=https%3A%2F%2Fcdn.cgv.id%2Fuploads%2Fmovie%2Fcompressed%2F18031500.jpg&amp;psig=AOvVaw0lXhiEHdiFP0Lc0dzsPZX9&amp;ust=1583812802041000&amp;source=images&amp;cd=vfe&amp;ved=0CAIQjRxqFwoTCNi6rMzAjOgCFQAAAAAdAAAAABAD</item>
+    </string-array>
+
+</resources>
+
